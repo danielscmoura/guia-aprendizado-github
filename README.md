@@ -1,6 +1,6 @@
 # Fundamentos do HTML: O Guia Definitivo para Estruturar a Web
 
-Linha editada na branch feature/gerar-conflito
+Linha editada na branch de gerar conflitos
 
 ## Objetivo
 Fornecer uma base sólida e prática sobre HTML, ensinando a estruturar páginas web de forma correta, acessível e otimizada. O material visa capacitar o leitor a construir do zero a estrutura (o "esqueleto") de qualquer site, aplicando boas práticas de semântica e preparando o código para futuras integrações com CSS e JavaScript.
